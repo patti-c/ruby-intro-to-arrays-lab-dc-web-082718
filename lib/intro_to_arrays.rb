@@ -9,3 +9,7 @@ def array_with_two_elements
 end 
 
 # indexing
+
+def first_element(array)
+  array[0]
+end 
